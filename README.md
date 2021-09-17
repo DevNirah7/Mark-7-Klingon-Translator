@@ -2,7 +2,7 @@
 # Klingon Translator
 
 # About:
-A web application which converts text entered in English and converts it into the 'Klingon'.
+A web application which converts text entered in English into  'Klingon'.
 
 ****
 ## Built with :
