@@ -3,14 +3,14 @@
 
 body
 { 
-    
-    margin: 0rem; 
+     
     font-family: 'Roboto', sans-serif;
 }
 
 *
 {
-    margin: 0rem 0rem;
+    margin: 0rem;
+    padding: 0rem;
 }
 
 :root
@@ -41,17 +41,28 @@ h4
 
 }
 
+nav
+{
+
+    margin-bottom: 0rem;
+    color: white;
+    background-color: black;
+    padding: 1rem;
+    text-align: center;
+}
+
 #nav-klingon
 {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 1.5rem auto;
+    height: 180px; 
+    width: 296px;
 
 }
 
 #nav-heading
 {
-    color: var(--brown);
+    color: white;
     font-family: 'Carattere', cursive;
     margin-bottom: 0rem;
 }
@@ -63,15 +74,7 @@ h4
     color: lightgray;
 }
 
-nav
-{
 
-    margin: 0rem;
-    color: white;
-    background-color: black;
-    padding: 2rem;
-    text-align: center;
-}
 
 #main
 {
